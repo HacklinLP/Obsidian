@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript.md",
+                "file": "DOM-Tree (obsidian voorbeeldje).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript"
+              "title": "DOM-Tree (obsidian voorbeeldje)"
             }
           }
         ]
@@ -183,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd5efb259798a76a",
+  "active": "a4aa846f27a72704",
   "lastOpenFiles": [
-    "DOM-Tree.md",
-    "Welcome.md",
-    "Javascript.md"
+    "Javascript.md",
+    "DOM-Tree (obsidian voorbeeldje).md",
+    "Welcome.md"
   ]
 }
