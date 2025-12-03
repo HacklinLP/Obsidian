@@ -18,3 +18,5 @@ sudo <command>
 apt list|more
 
 ```
+
+Port forwarding zorgt ervoor dat het guest ip alle pakketjes kan versturen via ons host-ip.
