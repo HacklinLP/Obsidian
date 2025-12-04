@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3af1b34bc69b9c76",
+        "id": "f789632ae6d91893",
         "type": "tabs",
         "children": [
           {
-            "id": "bd481cbe297bed02",
+            "id": "551b5f5912649d15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digitale Werkomgeving/Ubuntu CLI commando's.md",
+                "file": "Software Ontwerp/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubuntu CLI commando's"
+              "title": "Untitled"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "af5bd15456dd87ae",
@@ -183,22 +183,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd481cbe297bed02",
+  "active": "551b5f5912649d15",
   "lastOpenFiles": [
-    "Web 2/localStorage.md",
-    "Web 2/Definitions/let.md",
-    "Web 2/Definitions/const.md",
+    "Software Ontwerp/Untitled.md",
+    "Software Ontwerp/MAUI/Definitions/AddTransient.md",
     "Digitale Werkomgeving/Ubuntu CLI commando's.md",
+    "Software Ontwerp/MAUI/Definitions",
+    "Web 2/Definitions/const.md",
+    "Web 2/Definitions/let.md",
+    "Untitled.canvas",
+    "DOM-Tree (obsidian voorbeeldje).md",
+    "Software Ontwerp/MAUI",
+    "Untitled",
+    "Software Ontwerp",
+    "Javascript.md",
     "Web 2/Lesnotities/JavaScript Deel 8.md",
     "Web 2/Lesnotities/EX Web 2.md",
-    "DOM-Tree (obsidian voorbeeldje).md",
-    "Web 2/Definitions",
+    "Web 2/localStorage.md",
     "Web 2/Lesnotities",
+    "Web 2/Definitions",
     "Web 2",
-    "Digitale Werkomgeving",
     "Programmeren Gevorderd 1/Eindwerk PG1.md",
     "Programmeren Gevorderd 1",
-    "Javascript.md",
+    "Digitale Werkomgeving",
+    "DOM-Tree.md",
     "Welcome.md"
   ]
 }
