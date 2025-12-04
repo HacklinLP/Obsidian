@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web 2/JavaScript Deel 8.md",
+                "file": "Digitale Werkomgeving/Ubuntu CLI commando's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Deel 8"
+              "title": "Ubuntu CLI commando's"
             }
           }
         ]
@@ -185,12 +185,16 @@
   },
   "active": "bd481cbe297bed02",
   "lastOpenFiles": [
-    "Web 2/EX Web 2.md",
-    "Web 2/JavaScript Deel 8.md",
     "Web 2/localStorage.md",
-    "Web 2",
+    "Web 2/Definitions/const.md",
+    "Web 2/Lesnotities/JavaScript Deel 8.md",
+    "Web 2/Definitions/let.md",
+    "Web 2/Lesnotities/EX Web 2.md",
     "DOM-Tree (obsidian voorbeeldje).md",
+    "Web 2/Definitions",
     "Digitale Werkomgeving/Ubuntu CLI commando's.md",
+    "Web 2/Lesnotities",
+    "Web 2",
     "Digitale Werkomgeving",
     "Programmeren Gevorderd 1/Eindwerk PG1.md",
     "Programmeren Gevorderd 1",

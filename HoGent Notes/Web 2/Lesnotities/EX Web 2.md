@@ -3,5 +3,5 @@ Extra vragen bij het examen
 - twee const arrays in 1 (af)
 - dingen opslaan in de browser (onderstaand voorbeeld)
 
-Niet allemaal in de test. 
+Niet allemaal in de test.
 
