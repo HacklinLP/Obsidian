@@ -93,7 +93,7 @@ Port forwarding zorgt ervoor dat het guest ip alle pakketjes kan versturen via o
 ssh [-p <poortnr>] <user>@<ip-adres>
 
 #ingevuld
-ssh -p 2222 lucas@10.0.2.15
+ssh -p 2222 lucas@127.0.0.1
 
 #uitloggen - ssh connectie verbreken
 exit
