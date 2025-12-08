@@ -1,4 +1,4 @@
-## Sudo
+## [[Sudo]]
 
 ```bash
 # sudo staat voor superuser do. superuser heeft meer bevoegdheden
@@ -22,7 +22,7 @@ Wanneer niet te gebruiken:
 **Belangrijk** - weet *waarom* je sudo moet gebruiken
 
 ---
-## Apt
+## [[Apt]]
 
 ```bash
 # geeft meer info over apt
@@ -60,8 +60,7 @@ apt install <package-name>
 ```
 
 ---
-
-## SSH
+## [[SSH]]
 
 ```bash
 #toont de status van een bepaalde service (kan ook iets anders zijn dan ssh)
@@ -75,7 +74,7 @@ sudo systemctl enable ssh
 ```
 
 ---
-## Port-forwarding
+## [[Port-forwarding]]
 
 Voor je port-forwarding kan gebruiken in je VM moet je dit eerst instellen via de netwerkinstellingen
 
