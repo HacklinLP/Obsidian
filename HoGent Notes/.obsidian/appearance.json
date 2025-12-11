@@ -1,4 +1,9 @@
 {
   "cssTheme": "",
-  "accentColor": "#64e87a"
+  "accentColor": "#64e87a",
+  "enabledCssSnippets": [
+    "Colored_Headings",
+    "title-font",
+    "colored_Headings"
+  ]
 }

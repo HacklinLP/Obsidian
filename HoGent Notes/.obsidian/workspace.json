@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmeren Gevorderd 1/Eindwerk PG1.md",
+                "file": "Eindwerk PG1/Eindwerk uitleg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eindwerk PG1"
+              "title": "Eindwerk uitleg"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "af5bd15456dd87ae",
@@ -198,10 +198,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a4aa846f27a72704",
+  "active": "963083ed9849e87e",
   "lastOpenFiles": [
-    "Programmeren Gevorderd 1/Definitions",
     "Digitale Werkomgeving/Stappen gezet voor de taak van VM.md",
+    "Eindwerk PG1/Eindwerk uitleg.md",
+    "Eindwerk PG1",
+    "Programmeren Gevorderd 1/Eindwerk PG1.md",
+    "Programmeren Gevorderd 1/Definitions",
     "Digitale Werkomgeving/Linux CLI commando's.md",
     "Digitale Werkomgeving/Definitions/Sudo.md",
     "Digitale Werkomgeving/Definitions/SSH.md",
@@ -219,7 +222,6 @@
     "Untitled.canvas",
     "DOM-Tree (obsidian voorbeeldje).md",
     "Software Ontwerp/MAUI",
-    "Untitled",
     "Software Ontwerp",
     "Javascript.md",
     "Web 2/Lesnotities/JavaScript Deel 8.md",
@@ -228,8 +230,6 @@
     "Web 2/Lesnotities",
     "Web 2/Definitions",
     "Web 2",
-    "Programmeren Gevorderd 1/Eindwerk PG1.md",
-    "Programmeren Gevorderd 1",
     "DOM-Tree.md",
     "Welcome.md"
   ]

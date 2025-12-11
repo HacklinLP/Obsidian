@@ -1,0 +1,7 @@
+.inline-title {
+    color: rgb(100, 232, 122);
+    align-self: center;
+}
+.workspace-leaf .inline-title {
+    font-size: 3rem !important;
+}
