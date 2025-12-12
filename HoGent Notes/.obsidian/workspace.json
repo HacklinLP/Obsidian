@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "963083ed9849e87e",
+            "id": "9a10b0dc57470cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,10 +198,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "963083ed9849e87e",
+  "active": "9a10b0dc57470cfc",
   "lastOpenFiles": [
-    "Digitale Werkomgeving/Stappen gezet voor de taak van VM.md",
+    "Eindwerk PG1/images/Pasted image 20251212004822.png",
+    "Eindwerk PG1/images/Pasted image 20251211232205.png",
     "Eindwerk PG1/Eindwerk uitleg.md",
+    "Eindwerk PG1/images/Pasted image 20251211235745.png",
+    "Eindwerk PG1/images",
+    "MyNote.md",
+    "Digitale Werkomgeving/Stappen gezet voor de taak van VM.md",
     "Eindwerk PG1",
     "Programmeren Gevorderd 1/Eindwerk PG1.md",
     "Programmeren Gevorderd 1/Definitions",
@@ -229,7 +234,6 @@
     "Web 2/localStorage.md",
     "Web 2/Lesnotities",
     "Web 2/Definitions",
-    "Web 2",
     "DOM-Tree.md",
     "Welcome.md"
   ]
