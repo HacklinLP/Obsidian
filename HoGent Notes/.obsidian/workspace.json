@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eindwerk PG1/Eindwerk uitleg.md",
-                "mode": "source",
+                "file": "Programmeren Gevorderd 1/V-notes/3-Tier Architecture.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eindwerk uitleg"
+              "title": "3-Tier Architecture"
             }
           }
         ],
@@ -198,12 +198,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "a4aa846f27a72704",
+  "active": "9a10b0dc57470cfc",
   "lastOpenFiles": [
+    "Programmeren Gevorderd 1/WPF Notes.md",
+    "Programmeren Gevorderd 1/Drielagenmodel.md",
+    "Programmeren Gevorderd 1/V-notes/3-Tier Architecture.md",
+    "Programmeren Gevorderd 1/Useful links/Useful Programming links.md",
+    "Programmeren Gevorderd 1/V-notes",
+    "Programmeren Gevorderd 1/untitled folder",
+    "Programmeren Gevorderd 1/Useful links",
+    "Programmeren Gevorderd 1/Definitions/DAO.md",
+    "Programmeren Gevorderd 1/Definitions/DTO.md",
+    "Eindwerk PG1/Eindwerk uitleg.md",
     "Eindwerk PG1/images.zip",
     "Eindwerk PG1/images/Pasted image 20251212004822.png",
     "Eindwerk PG1/images/Pasted image 20251211232205.png",
-    "Eindwerk PG1/Eindwerk uitleg.md",
     "Eindwerk PG1/images/Pasted image 20251211235745.png",
     "Eindwerk PG1/images",
     "MyNote.md",
@@ -227,15 +236,9 @@
     "Web 2/Definitions/let.md",
     "Untitled.canvas",
     "DOM-Tree (obsidian voorbeeldje).md",
-    "Software Ontwerp/MAUI",
-    "Software Ontwerp",
     "Javascript.md",
     "Web 2/Lesnotities/JavaScript Deel 8.md",
     "Web 2/Lesnotities/EX Web 2.md",
-    "Web 2/localStorage.md",
-    "Web 2/Lesnotities",
-    "Web 2/Definitions",
-    "DOM-Tree.md",
-    "Welcome.md"
+    "Web 2/localStorage.md"
   ]
 }

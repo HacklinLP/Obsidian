@@ -22,3 +22,11 @@
 .markdown-rendered b {
     color: rgb(100, 232, 122, 0.60) !important;
 }
+
+.markdown-preview-view code {
+    color: rgba(100, 232, 122, 0.80)
+}
+
+.cm-s-obsidian span.cm-inline-code {
+    color: rgba(100, 232, 122, 0.80)
+}
