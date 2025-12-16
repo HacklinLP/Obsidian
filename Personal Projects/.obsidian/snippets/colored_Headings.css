@@ -1,0 +1,33 @@
+/* Colored Headings and Strong Text for CodeMirror */
+.cm-header-1 { color: rgb(100, 232, 122)}
+.cm-header-2 { color: rgba(100, 232, 122, 0.80)}
+.cm-header-3 { color: rgb(100, 232, 122, 0.60)}
+.cm-header-4 { color: rgb(255, 100, 100)}
+.cm-header-5 { color: rgb(255, 100, 100, 0.80)}
+.cm-header-6 { color: rgb(255, 100, 100, 0.60)}
+
+.cm-strong {
+    color: rgb(100, 232, 122, 0.60) !important;
+}
+
+/* Colored Headings for Rendered Markdown */
+.markdown-rendered h1 { color: rgb(100, 232, 122); }
+.markdown-rendered h2 { color: rgba(100, 232, 122, 0.80); }
+.markdown-rendered h3 { color: rgba(100, 232, 122, 0.60); }
+.markdown-rendered h4 { color: rgb(255, 100, 100)}
+.markdown-rendered h5 { color: rgb(255, 100, 100, 0.80)}
+.markdown-rendered h6 { color: rgb(255, 100, 100, 0.60)}
+
+.markdown-rendered strong,
+.markdown-rendered b {
+    color: rgb(100, 232, 122, 0.60) !important;
+}
+
+.markdown-preview-view code {
+    color: rgba(100, 232, 122, 0.80)
+}
+
+.cm-s-obsidian span.cm-inline-code {
+    color: rgba(100, 232, 122, 0.80)
+}
+

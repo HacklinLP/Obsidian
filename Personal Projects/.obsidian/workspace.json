@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "b615f497d9d0bb41",
+    "id": "ac91e69779ad2158",
     "type": "split",
     "children": [
       {
-        "id": "59397d085e8dfa00",
+        "id": "aff7b80a7ee9cd68",
         "type": "tabs",
         "children": [
           {
-            "id": "acacc64b39b9b8b9",
+            "id": "d9e991f8d876cca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digitale Werkomgeving/Netwerken.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netwerken"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "9eb2f0cb5926c150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2e1ae55a9a6bd59c",
+    "id": "629b7cb36afef562",
     "type": "split",
     "children": [
       {
-        "id": "00471a1c9ecbdde9",
+        "id": "def46925cc871c83",
         "type": "tabs",
         "children": [
           {
-            "id": "a4aa846f27a72704",
+            "id": "7f306f04ed41a99a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "1b2d8de8dce2bdb2",
+            "id": "26cab188635d2a70",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "b368fcf1eea816e7",
+            "id": "2159bed8ffcd24c2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "af5bd15456dd87ae",
+    "id": "6b0e5448b215531c",
     "type": "split",
     "children": [
       {
-        "id": "27e461f85aeaccf2",
+        "id": "0fc4def432d551d9",
         "type": "tabs",
         "children": [
           {
-            "id": "dcc06d6221839b0f",
+            "id": "a58c01e657e64511",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOM-Tree.md",
+                "file": "Journal/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DOM-Tree"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "b4850f1241a2392c",
+            "id": "bd5ce67848d65228",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOM-Tree.md",
+                "file": "Journal/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DOM-Tree"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "4b7ad6e8adf68711",
+            "id": "c6724e1f5a3b8350",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +152,7 @@
             }
           },
           {
-            "id": "2bd6e84774844544",
+            "id": "3c04cb69fb77cf61",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +166,18 @@
             }
           },
           {
-            "id": "2fee7c05aa00d7c9",
+            "id": "f0e883fd09a92de2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOM-Tree.md",
+                "file": "Journal/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DOM-Tree"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -174,7 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,47 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "acacc64b39b9b8b9",
+  "active": "7f306f04ed41a99a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Digitale Werkomgeving/Netwerken.md",
-    "Digitale Werkomgeving/Taak VM.md",
-    "Eindwerk PG1/Eindwerk uitleg.md",
-    "Digitale Werkomgeving/Linux CLI commando's.md",
-    "Digitale Werkomgeving/TO DO.md",
-    "Programmeren Gevorderd 1/V-notes/3-Tier Architecture.md",
-    "Programmeren Gevorderd 1/WPF Notes.md",
-    "Programmeren Gevorderd 1/Drielagenmodel.md",
-    "Programmeren Gevorderd 1/Useful links/Useful Programming links.md",
-    "Programmeren Gevorderd 1/V-notes",
-    "Programmeren Gevorderd 1/untitled folder",
-    "Programmeren Gevorderd 1/Useful links",
-    "Programmeren Gevorderd 1/Definitions/DAO.md",
-    "Programmeren Gevorderd 1/Definitions/DTO.md",
-    "Eindwerk PG1/images.zip",
-    "Eindwerk PG1/images/Pasted image 20251212004822.png",
-    "Eindwerk PG1/images/Pasted image 20251211232205.png",
-    "Eindwerk PG1/images/Pasted image 20251211235745.png",
-    "Eindwerk PG1/images",
-    "MyNote.md",
-    "Eindwerk PG1",
-    "Programmeren Gevorderd 1/Eindwerk PG1.md",
-    "Programmeren Gevorderd 1/Definitions",
-    "Digitale Werkomgeving/Definitions/Sudo.md",
-    "Digitale Werkomgeving/Definitions/SSH.md",
-    "Digitale Werkomgeving/Definitions/Port-forwarding.md",
-    "Digitale Werkomgeving/Definitions/Apt.md",
-    "Digitale Werkomgeving/Definitions",
-    "Digitale Werkomgeving/Ubuntu CLI commando's.md",
-    "2025-12-04.md",
-    "Software Ontwerp/Untitled.md",
-    "Software Ontwerp/MAUI/Definitions/Untitled.base",
-    "Software Ontwerp/MAUI/Definitions/AddTransient.md",
-    "Software Ontwerp/MAUI/Definitions",
-    "Web 2/Definitions/const.md",
-    "Web 2/Definitions/let.md",
-    "Untitled.canvas",
-    "DOM-Tree (obsidian voorbeeldje).md",
-    "Javascript.md"
+    "Welcome.md",
+    "Journal/Untitled.md",
+    "Journal"
   ]
 }

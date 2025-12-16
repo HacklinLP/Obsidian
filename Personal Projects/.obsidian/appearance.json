@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "colored_Headings",
+    "title-font"
+  ],
+  "accentColor": "#64e87a",
+  "theme": "system",
+  "cssTheme": "Obsidian Nord",
+  "translucency": false
+}

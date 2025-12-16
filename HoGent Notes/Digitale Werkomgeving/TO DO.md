@@ -1,0 +1,2 @@
+- safe exam browser updaten
+- VM instellen
