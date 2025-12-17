@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Untitled.md",
-                "mode": "source",
+                "file": "Journal/Learning game dev.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Learning game dev"
             }
           }
         ],
@@ -198,10 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f306f04ed41a99a",
+  "active": "9eb2f0cb5926c150",
   "lastOpenFiles": [
     "Welcome.md",
-    "Journal/Untitled.md",
+    "Journal/Learning game dev.md",
     "Journal"
   ]
 }
