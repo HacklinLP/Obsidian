@@ -20,6 +20,12 @@
 #5 Probeer te verbinden met de VM vanuit de cmd-line en met de public key
 	scp -P 2222 id_ed25519.pub lucas@127.0.0.1:.
 	
+	mkdir .ssh
+	
+	cat id_ed25519.pub >> .ssh/authorized_keys
+	
+	rm id_25519.pub
+	
 	ssh -p 2222 lucas@127.0.0.1
 
 
