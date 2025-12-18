@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digitale Werkomgeving/Taak VM.md",
+                "file": "Digitale Werkomgeving/Netwerken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taak VM"
+              "title": "Netwerken"
             }
           }
         ]
@@ -187,9 +187,9 @@
   "active": "acacc64b39b9b8b9",
   "lastOpenFiles": [
     "Digitale Werkomgeving/Linux CLI commando's.md",
-    "Digitale Werkomgeving/Git.md",
     "Digitale Werkomgeving/Taak VM.md",
     "Digitale Werkomgeving/Netwerken.md",
+    "Digitale Werkomgeving/Git.md",
     "Untitled.md",
     "Eindwerk PG1/Eindwerk uitleg.md",
     "Digitale Werkomgeving/TO DO.md",
