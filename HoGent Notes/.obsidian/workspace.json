@@ -174,24 +174,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "acacc64b39b9b8b9",
   "lastOpenFiles": [
+    "Eindwerk PG1/Log.md",
+    "Eindwerk PG1/Eindwerk uitleg.md",
+    "Untitled",
     "Digitale Werkomgeving/Netwerken.md",
     "Digitale Werkomgeving/Linux CLI commando's.md",
     "Digitale Werkomgeving/Taak VM.md",
     "Digitale Werkomgeving/Git.md",
     "Untitled.md",
-    "Eindwerk PG1/Eindwerk uitleg.md",
     "Digitale Werkomgeving/TO DO.md",
     "Programmeren Gevorderd 1/V-notes/3-Tier Architecture.md",
     "Programmeren Gevorderd 1/WPF Notes.md",
@@ -221,10 +223,8 @@
     "Software Ontwerp/Untitled.md",
     "Software Ontwerp/MAUI/Definitions/Untitled.base",
     "Software Ontwerp/MAUI/Definitions/AddTransient.md",
-    "Software Ontwerp/MAUI/Definitions",
     "Web 2/Definitions/const.md",
     "Web 2/Definitions/let.md",
-    "Untitled.canvas",
-    "DOM-Tree (obsidian voorbeeldje).md"
+    "Untitled.canvas"
   ]
 }
