@@ -1,9 +1,6 @@
-
-We moeten een **Klantensimulator** maken die testdata kan genereren voor diverse landen.
-
-
 # Doelstelling
 
+We moeten een **Klantensimulator** maken die testdata kan genereren voor diverse landen.
 Voor **Elk** land moet er een *realistische* combinatie gemaakt worden (gegenereerd worden) van:
 - voornamen
 - achternamen
@@ -148,3 +145,23 @@ Voor Zweden zijn de volgende bestanden beschikbaar:
 
 Voor de gemeentenamen gelden dezelfde opmerkingen als in[[Eindwerk uitleg#Denemarken|Denemarken]].
 Voor de vrouwen- en mannennamen wordt ook de gemiddelde leeftijd (medelålder) meegegeven, maar daar houden we geen rekening mee.
+
+# Uitvoering
+## Deel 1 -- Uploaden-tool
+Upload de gegevens in een SQL databank, zodat er voor de simulaties geen gebruik meer moet gemaakt worden van de files. 
+
+Zorg ervoor dat de upload-tool flexibel en uitbreidbaar is. 
+
+Het moet eenvoudig zijn om nieuwe landen toe te voegen
+
+## Deel 2 -- Simulator
+De simulator zelf schrijven.
+
+De simulator moet volgende instellingen en/of keuzes bevatten:
+- Het land waarvoor de simulatie moet worden uitgevoerd
+- a
+- geef de optie om ook specifieke gemeenten te selecteren(in dit geval worden enkel adressen binnen deze gemeentes gesimuleerd). Extra geefeen percentage meevoor elke gemeente.
+- het aantal klanten dat moet worden gesimuleerd
+- Opdrachtgever waarvoor we de simulatie maken
+- Minimum en max leeftijd
+- Huisnummerdefinities
