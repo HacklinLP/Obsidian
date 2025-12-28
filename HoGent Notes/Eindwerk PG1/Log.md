@@ -19,3 +19,9 @@ Adressen txt files inlezen lukt volledig
 ---
 Nu bezig aan de namen in te lezen:
 - Belgie lukt volledig 
+
+
+# 28/12
+
+**!** **Lees zeker na hoe de code van de json en reader werkt.**
+Het inlezen van de straten van Belgie lukt perfect, hooray!
