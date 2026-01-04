@@ -89,3 +89,13 @@ Welke methodes moet ik allemaal kunnen opvragen
 **Zeker de SIMMANAGER klasse bekijken om te zien hoe de gesimuleerde klanten worden aangemaakt**
 De hulpmethodes echt wel vragen aan AI om het uit te leggen (snap er geen bal van)
 **Het gedeelte met LINQ ook zien te begrijpen**
+
+# 2/1
+
+Applicatie werkt nu zo goed als volledig -- de exportwindow is af denk ik (test het zeker nog eens)
+
+Wat staat er nog te doen:
+- Alles nog eens goed testen
+- Eventueel wat UT schrijven
+- De code lezen en proberen begrijpen
+- alles overzetten naar laptop en daarop testen

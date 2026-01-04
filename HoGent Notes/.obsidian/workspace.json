@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eindwerk PG1/Log.md",
+                "file": "Web 2/Samenvatting Web2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log"
+              "title": "Samenvatting Web2"
             }
           }
         ]
@@ -186,11 +186,14 @@
   },
   "active": "79b7b11aa2f0f96a",
   "lastOpenFiles": [
-    "Eindwerk PG1/Eindwerk aanpassingen nodig.md",
+    "Eindwerk MonoGame/Log.md",
+    "Web 2/Samenvatting Web2.md",
+    "Eindwerk MonoGame/MonoGame notes.md",
     "Eindwerk PG1/Log.md",
+    "Eindwerk MonoGame",
+    "Eindwerk PG1/Eindwerk aanpassingen nodig.md",
     "Eindwerk PG1/Eindwerk uitleg.md",
     "Genshin Project Viola.md",
-    "Untitled",
     "Digitale Werkomgeving/Netwerken.md",
     "Digitale Werkomgeving/Linux CLI commando's.md",
     "Digitale Werkomgeving/Taak VM.md",
@@ -221,10 +224,7 @@
     "Digitale Werkomgeving/Definitions/Apt.md",
     "Digitale Werkomgeving/Definitions",
     "Digitale Werkomgeving/Ubuntu CLI commando's.md",
-    "2025-12-04.md",
-    "Software Ontwerp/Untitled.md",
     "Software Ontwerp/MAUI/Definitions/Untitled.base",
-    "Software Ontwerp/MAUI/Definitions/AddTransient.md",
     "Untitled.canvas"
   ]
 }
