@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web 2/Samenvatting Web2.md",
+                "file": "Web 2/Samenvatting V.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samenvatting Web2"
+              "title": "Samenvatting V"
             }
           }
         ]
@@ -186,14 +186,17 @@
   },
   "active": "79b7b11aa2f0f96a",
   "lastOpenFiles": [
+    "Web 2/Samenvatting (nieuw).md",
+    "Web 2/Samenvatting V.md",
+    "Web 2/Samenvatting (oud).md",
+    "Web 2/localStorage.md",
+    "Programmeren Gevorderd 1/Genshin Project Viola.md",
     "Eindwerk MonoGame/Log.md",
-    "Web 2/Samenvatting Web2.md",
     "Eindwerk MonoGame/MonoGame notes.md",
     "Eindwerk PG1/Log.md",
     "Eindwerk MonoGame",
     "Eindwerk PG1/Eindwerk aanpassingen nodig.md",
     "Eindwerk PG1/Eindwerk uitleg.md",
-    "Genshin Project Viola.md",
     "Digitale Werkomgeving/Netwerken.md",
     "Digitale Werkomgeving/Linux CLI commando's.md",
     "Digitale Werkomgeving/Taak VM.md",
@@ -220,10 +223,7 @@
     "Programmeren Gevorderd 1/Definitions",
     "Digitale Werkomgeving/Definitions/Sudo.md",
     "Digitale Werkomgeving/Definitions/SSH.md",
-    "Digitale Werkomgeving/Definitions/Port-forwarding.md",
-    "Digitale Werkomgeving/Definitions/Apt.md",
     "Digitale Werkomgeving/Definitions",
-    "Digitale Werkomgeving/Ubuntu CLI commando's.md",
     "Software Ontwerp/MAUI/Definitions/Untitled.base",
     "Untitled.canvas"
   ]
