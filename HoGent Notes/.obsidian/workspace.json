@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "b615f497d9d0bb41",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb284462d29ac839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a500ebcac7f6f22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web 3/Node.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Node.js"
+            }
+          },
+          {
+            "id": "fb78f39fd232bb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Installation"
+            }
+          },
+          {
+            "id": "20b381c8efe3be69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web 3/ES_Syntax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ES_Syntax"
+            }
+          },
+          {
+            "id": "5442153fe725db86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React-Project aanmaken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React-Project aanmaken"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e1ae55a9a6bd59c",
+    "type": "split",
+    "children": [
+      {
+        "id": "00471a1c9ecbdde9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4aa846f27a72704",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b2d8de8dce2bdb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b368fcf1eea816e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "af5bd15456dd87ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "27e461f85aeaccf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc06d6221839b0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DOM-Tree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DOM-Tree"
+            }
+          },
+          {
+            "id": "b4850f1241a2392c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DOM-Tree.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DOM-Tree"
+            }
+          },
+          {
+            "id": "4b7ad6e8adf68711",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bd6e84774844544",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2fee7c05aa00d7c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DOM-Tree.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DOM-Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5442153fe725db86",
+  "lastOpenFiles": [
+    "Web 3/ES_Syntax.md",
+    "React-Project aanmaken.md",
+    "Web 3/Node.js.md",
+    "Web 3/Best practices & info/Framework vs library.md",
+    "Web 3/Best practices & info",
+    "Web 3/Best practices & info/let & const.md",
+    "Installation.md",
+    "Web 3/Best practices & info/Compiling & transpiling.md",
+    "Web 3",
+    "Samenvatting (nieuw).pdf",
+    "Samenvatting V.pdf",
+    "Web 2/Samenvatting V.md",
+    "Web 2/Samenvatting (nieuw).md",
+    "Web 2/Samenvatting zzzzz.md",
+    "Web 2/localStorage.md",
+    "Programmeren Gevorderd 1/Genshin Project Viola.md",
+    "Web 2/Lesnotities/JavaScript Deel 8.md",
+    "Web 2/Lesnotities/EX Web 2.md",
+    "Software Ontwerp/Notes MAUI & MG.md",
+    "Software Ontwerp/MAUI/Definitions/Untitled.base",
+    "Software Ontwerp/MAUI/Definitions/AddTransient.md",
+    "Software Ontwerp/Untitled.md",
+    "Programmeren Gevorderd 1/V-notes/LINQ.md",
+    "Web 2/Samenvatting Web2.md",
+    "Eindwerk PG1/Log.md",
+    "Genshin Project Viola.md",
+    "Eindwerk PG1/Eindwerk aanpassingen nodig.md",
+    "Eindwerk MonoGame/Log.md",
+    "Eindwerk MonoGame/MonoGame notes.md",
+    "Eindwerk MonoGame",
+    "Eindwerk PG1/Eindwerk uitleg.md",
+    "Digitale Werkomgeving/Netwerken.md",
+    "Programmeren Gevorderd 1/V-notes",
+    "Programmeren Gevorderd 1/untitled folder",
+    "Programmeren Gevorderd 1/Useful links",
+    "Eindwerk PG1/images.zip",
+    "Eindwerk PG1/images/Pasted image 20251212004822.png",
+    "Eindwerk PG1/images/Pasted image 20251211232205.png",
+    "Eindwerk PG1/images/Pasted image 20251211235745.png",
+    "Untitled.canvas"
+  ]
+}
