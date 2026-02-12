@@ -1,6 +1,6 @@
 # JavaScript Samenvatting - Examenvoorbereiding
 
-## 📚 Inhoudsopgave
+## Inhoudsopgave
 1. [Basisconcepten](#basisconcepten)
 2. [DOM Manipulatie](#dom-manipulatie)
 3. [Event Listeners](#event-listeners)
