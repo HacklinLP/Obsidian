@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web 3/ES_Syntax.md",
+                "file": "Web 3/Lessen/Les 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ES_Syntax"
+              "title": "Les 1"
+            }
+          },
+          {
+            "id": "2c3e502cea3e7943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web 3/Lessen/Les 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Les 3"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,13 +243,19 @@
   },
   "active": "a4aa846f27a72704",
   "lastOpenFiles": [
-    "React-Project aanmaken.md",
+    "PG3",
+    "Web 3/Lessen/Les 1.md",
+    "Web 3/Lessen/Les 3.md",
     "Web 3/ES_Syntax.md",
     "Web 3/Node.js.md",
+    "Web 3/Handig/Github pagina.md",
+    "Web 3/Lessen",
+    "Web 3/Best practices & info/React-Project aanmaken.md",
+    "Web 3/Handig",
+    "Web 3/Best practices & info/Installation.md",
     "Web 3/Best practices & info/Framework vs library.md",
     "Web 3/Best practices & info",
     "Web 3/Best practices & info/let & const.md",
-    "Installation.md",
     "Web 3/Best practices & info/Compiling & transpiling.md",
     "Web 3",
     "Samenvatting (nieuw).pdf",
@@ -256,15 +276,9 @@
     "Eindwerk PG1/Log.md",
     "Genshin Project Viola.md",
     "Eindwerk PG1/Eindwerk aanpassingen nodig.md",
-    "Eindwerk MonoGame/Log.md",
-    "Eindwerk MonoGame/MonoGame notes.md",
     "Eindwerk MonoGame",
-    "Eindwerk PG1/Eindwerk uitleg.md",
-    "Digitale Werkomgeving/Netwerken.md",
     "Programmeren Gevorderd 1/V-notes",
     "Programmeren Gevorderd 1/untitled folder",
-    "Programmeren Gevorderd 1/Useful links",
-    "Eindwerk PG1/images.zip",
     "Eindwerk PG1/images/Pasted image 20251212004822.png",
     "Eindwerk PG1/images/Pasted image 20251211232205.png",
     "Eindwerk PG1/images/Pasted image 20251211235745.png",
